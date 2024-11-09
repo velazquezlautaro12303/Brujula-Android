@@ -1,3 +1,6 @@
 ### Capturas de Pantalla
 
-![](./screenshots/image1.jpg) | ![](./screenshots/image2.jpg) 
+<p float="left">
+  <img src="./screenshots/image1.jpg" width="45%" />
+  <img src="./screenshots/image2.jpg" width="45%" />
+</p>
